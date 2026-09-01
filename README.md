@@ -119,25 +119,44 @@ Engineered robust, full-stack responsive web applications integrating **MongoDB*
 
 <br>
 
+## 📊 Engineering Activity
+
+<br>
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SriPonRama&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=2f81f7&text_color=7d8590&icon_color=2f81f7">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=SriPonRama&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=0969da&text_color=656d76&icon_color=0969da">
+          <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SriPonRama&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=2f81f7&text_color=7d8590&icon_color=2f81f7">
+        </picture>
+      </td>
+      <td width="50%" align="center">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SriPonRama&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=2f81f7&text_color=7d8590">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SriPonRama&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=0969da&text_color=656d76">
+          <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriPonRama&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=2f81f7&text_color=7d8590">
+        </picture>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SriPonRama&bg_color=00000000&color=7d8590&line=2f81f7&point=e6edf3&area=true&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SriPonRama&bg_color=00000000&color=656d76&line=0969da&point=1f2328&area=true&hide_border=true">
+    <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SriPonRama&bg_color=00000000&color=7d8590&line=2f81f7&point=e6edf3&area=true&hide_border=true" width="100%">
+  </picture>
+</div>
+
+<br>
+
 ---
 <div align="center">
   <p><i>Constantly learning. Always shipping.</i></p>
 </div>
-=======
-## Hi there 👋
-
-<!--
-**SriPonRama/SriPonRama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
->>>>>>> e2b61668a860cb54163b72cdbae9f9f69f1ba37b
