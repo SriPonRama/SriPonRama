@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 268" width="920" height="268" role="img" aria-labelledby="stitle">
+  <title id="stitle">Engineering Signal Path</title>
+  <rect width="920" height="268" rx="18" fill="#0B1220"/>
+  <rect x="1" y="1" width="918" height="266" rx="17" fill="none" stroke="#243044" stroke-width="1"/>
+
+  <text x="36" y="42" fill="#8B9BB4" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" letter-spacing="3">ENGINEERING SIGNAL PATH</text>
+  <text x="36" y="68" fill="#E8EEF5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="600">How a problem moves through my work</text>
+
+  <path id="rail" d="M70 148 H850" fill="none" stroke="#243044" stroke-width="2"/>
+  <path d="M70 148 H850" fill="none" stroke="#C4A35A" stroke-width="2" stroke-dasharray="10 14">
+    <animate attributeName="stroke-dashoffset" from="0" to="-240" dur="9s" repeatCount="indefinite"/>
+  </path>
+  <circle r="4" fill="#C4A35A">
+    <animateMotion dur="9s" repeatCount="indefinite" path="M70 148 H850"/>
+  </circle>
+
+  <!-- 01 -->
+  <rect x="46" y="118" width="120" height="60" rx="10" fill="#121C2C" stroke="#31425A"/>
+  <text x="106" y="142" text-anchor="middle" fill="#C4A35A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" letter-spacing="1.5">01</text>
+  <text x="106" y="162" text-anchor="middle" fill="#F3F6FB" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600">AI / ML</text>
+  <text x="106" y="214" text-anchor="middle" fill="#8B9BB4" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11">Vision &amp; inference</text>
+
+  <!-- 02 -->
+  <rect x="218" y="118" width="120" height="60" rx="10" fill="#121C2C" stroke="#31425A"/>
+  <text x="278" y="142" text-anchor="middle" fill="#C4A35A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" letter-spacing="1.5">02</text>
+  <text x="278" y="162" text-anchor="middle" fill="#F3F6FB" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600">Full Stack</text>
+  <text x="278" y="214" text-anchor="middle" fill="#8B9BB4" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11">Product interfaces</text>
+
+  <!-- 03 -->
+  <rect x="390" y="118" width="120" height="60" rx="10" fill="#121C2C" stroke="#31425A"/>
+  <text x="450" y="142" text-anchor="middle" fill="#C4A35A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" letter-spacing="1.5">03</text>
+  <text x="450" y="162" text-anchor="middle" fill="#F3F6FB" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600">Backend</text>
+  <text x="450" y="214" text-anchor="middle" fill="#8B9BB4" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11">APIs &amp; data</text>
+
+  <!-- 04 -->
+  <rect x="562" y="118" width="120" height="60" rx="10" fill="#121C2C" stroke="#31425A"/>
+  <text x="622" y="142" text-anchor="middle" fill="#C4A35A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" letter-spacing="1.5">04</text>
+  <text x="622" y="162" text-anchor="middle" fill="#F3F6FB" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600">DevOps</text>
+  <text x="622" y="214" text-anchor="middle" fill="#8B9BB4" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11">Containers &amp; GitOps</text>
+
+  <!-- 05 -->
+  <rect x="734" y="118" width="120" height="60" rx="10" fill="#121C2C" stroke="#31425A"/>
+  <text x="794" y="142" text-anchor="middle" fill="#C4A35A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" letter-spacing="1.5">05</text>
+  <text x="794" y="162" text-anchor="middle" fill="#F3F6FB" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600">DSA</text>
+  <text x="794" y="214" text-anchor="middle" fill="#8B9BB4" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11">Contest practice</text>
+</svg>

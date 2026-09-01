@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 100" width="100%">
+  <style>
+    @media (prefers-color-scheme: dark) {
+      .text-title { fill: #e6edf3; }
+      .text-desc { fill: #7d8590; }
+      .accent { stroke: #2f81f7; }
+      .accent-bg { fill: #2f81f7; opacity: 0.1; }
+      .divider { stroke: #30363d; }
+    }
+    @media (prefers-color-scheme: light) {
+      .text-title { fill: #1f2328; }
+      .text-desc { fill: #656d76; }
+      .accent { stroke: #0969da; }
+      .accent-bg { fill: #0969da; opacity: 0.1; }
+      .divider { stroke: #d0d7de; }
+    }
+    .text-title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 17px; font-weight: 700; letter-spacing: 1.5px; }
+    .text-desc { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 13.5px; font-weight: 400; }
+    .divider { stroke-width: 1; stroke-dasharray: 4 4; }
+  </style>
+
+  <!-- BUILD -->
+  <g transform="translate(30, 50)">
+    <rect x="-18" y="-18" width="36" height="36" rx="8" class="accent-bg"/>
+    <path d="M-6,-6 L-10,0 L-6,6 M6,-6 L10,0 L6,6 M-2,8 L2,-8" class="accent" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="35" y="2" class="text-title">BUILD</text>
+    <text x="35" y="24" class="text-desc">Architecting robust full-stack systems</text>
+  </g>
+
+  <line x1="300" y1="25" x2="300" y2="75" class="divider" />
+
+  <!-- SOLVE -->
+  <g transform="translate(340, 50)">
+    <rect x="-18" y="-18" width="36" height="36" rx="8" class="accent-bg"/>
+    <!-- Logic icon -->
+    <circle cx="0" cy="0" r="5" class="accent" stroke-width="2" fill="none"/>
+    <path d="M0,-8 L0,-5 M0,5 L0,8 M-8,0 L-5,0 M5,0 L8,0 M-6,-6 L-4,-4 M4,4 L6,6 M-6,6 L-4,4 M4,-4 L6,-6" class="accent" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <text x="35" y="2" class="text-title">SOLVE</text>
+    <text x="35" y="24" class="text-desc">Tackling complex algorithmic challenges</text>
+  </g>
+
+  <line x1="610" y1="25" x2="610" y2="75" class="divider" />
+
+  <!-- SHIP -->
+  <g transform="translate(650, 50)">
+    <rect x="-18" y="-18" width="36" height="36" rx="8" class="accent-bg"/>
+    <!-- Ship icon -->
+    <path d="M0,-8 L4,-4 V4 L0,8 L-4,4 V-4 Z M-4,4 L-8,8 M4,4 L8,8 M0,8 V12" class="accent" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="35" y="2" class="text-title">SHIP</text>
+    <text x="35" y="24" class="text-desc">Deploying via modern CI/CD pipelines</text>
+  </g>
+</svg>

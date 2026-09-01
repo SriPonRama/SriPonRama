@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 248" width="920" height="248" role="img" aria-labelledby="title desc">
+  <title id="title">Sri Pon Rama S  AI and Software Engineering Student</title>
+  <desc id="desc">Professional profile header</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#101826"/>
+      <stop offset="100%" stop-color="#0B1220"/>
+    </linearGradient>
+  </defs>
+  <rect width="920" height="248" rx="18" fill="url(#panel)"/>
+  <rect x="1" y="1" width="918" height="246" rx="17" fill="none" stroke="#243044" stroke-width="1"/>
+  <line x1="36" y1="0" x2="36" y2="248" stroke="#C4A35A" stroke-width="3"/>
+
+  <circle cx="58" cy="38" r="4" fill="#3DDC97">
+    <animate attributeName="opacity" values="1;0.25;1" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="72" y="42" fill="#8B9BB4" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" letter-spacing="2.2">B.TECH AI &amp; DS · SRI ESHWAR COLLEGE OF ENGINEERING</text>
+
+  <text x="52" y="102" fill="#F3F6FB" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="36" font-weight="700">Sri Pon Rama S</text>
+  <text x="52" y="136" fill="#A9B8CE" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">AI &amp; Software Engineering Student</text>
+  <text x="52" y="176" fill="#C4A35A" font-family="Georgia, Times New Roman, serif" font-size="15" font-style="italic">Building systems. Solving problems. Learning by doing.</text>
+
+  <text x="52" y="218" fill="#6F7F96" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" letter-spacing="1.4">COIMBATORE · 20242028 · PRACTICAL SYSTEMS ACROSS AI AND SOFTWARE</text>
+</svg>
