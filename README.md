@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <br>
   <h1>Sri Pon Rama S</h1>
@@ -122,3 +123,21 @@ Engineered robust, full-stack responsive web applications integrating **MongoDB*
 <div align="center">
   <p><i>Constantly learning. Always shipping.</i></p>
 </div>
+=======
+## Hi there 👋
+
+<!--
+**SriPonRama/SriPonRama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> e2b61668a860cb54163b72cdbae9f9f69f1ba37b
