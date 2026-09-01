@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <div align="center">
   <br>
   <h1>Sri Pon Rama S</h1>
