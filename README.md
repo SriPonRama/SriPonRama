@@ -51,58 +51,44 @@
 ## Technical Arsenal
 ---
 
-<div align="center">
-<table width="100%" align="center">
+<table width="100%">
   <tr>
-    <td width="33%" align="center" valign="top">
+    <td width="33.33%" align="center" valign="top">
       <br>
       <b><img src="./assets/icons/lang.svg" width="18" align="center"> Languages</b><br><br>
-      <img src="./assets/tech/python.png" width="28" title="Python">&nbsp;
-      <img src="./assets/tech/java.png" width="28" title="Java">&nbsp;
-      <img src="./assets/tech/cpp.png" width="28" title="C++">&nbsp;
-      <img src="./assets/tech/c.png" width="28" title="C">
+      <img src="./assets/tech/python.png" width="28" title="Python">&nbsp;<img src="./assets/tech/java.png" width="28" title="Java">&nbsp;<img src="./assets/tech/cpp.png" width="28" title="C++">&nbsp;<img src="./assets/tech/c.png" width="28" title="C">
       <br><br>
     </td>
-    <td width="33%" align="center" valign="top">
+    <td width="33.33%" align="center" valign="top">
       <br>
       <b><img src="./assets/icons/frontend.svg" width="18" align="center"> Frontend</b><br><br>
-      <img src="./assets/tech/react.png" width="28" title="React">&nbsp;
-      <img src="./assets/tech/html.png" width="28" title="HTML">&nbsp;
-      <img src="./assets/tech/css.png" width="28" title="CSS">
+      <img src="./assets/tech/react.png" width="28" title="React">&nbsp;<img src="./assets/tech/html.png" width="28" title="HTML">&nbsp;<img src="./assets/tech/css.png" width="28" title="CSS">
       <br><br>
     </td>
-    <td width="33%" align="center" valign="top">
+    <td width="33.33%" align="center" valign="top">
       <br>
       <b><img src="./assets/icons/backend.svg" width="18" align="center"> Backend</b><br><br>
-      <img src="./assets/tech/nodejs.png" width="28" title="Node.js">&nbsp;
-      <img src="./assets/tech/express.png" width="28" title="Express">&nbsp;
-      <img src="./assets/tech/flask.png" width="28" title="Flask">&nbsp;
-      <img src="./assets/tech/api.png" width="28" title="REST APIs">
+      <img src="./assets/tech/nodejs.png" width="28" title="Node.js">&nbsp;<img src="./assets/tech/express.png" width="28" title="Express">&nbsp;<img src="./assets/tech/flask.png" width="28" title="Flask">&nbsp;<img src="./assets/tech/api.png" width="28" title="REST APIs">
       <br><br>
     </td>
   </tr>
   <tr>
-    <td width="33%" align="center" valign="top">
+    <td width="33.33%" align="center" valign="top">
       <br>
       <b><img src="./assets/icons/ml.svg" width="18" align="center"> AI / ML</b><br><br>
-      <img src="./assets/tech/ml.png" width="28" title="Machine Learning">&nbsp;
-      <img src="./assets/tech/opencv.png" width="28" title="OpenCV">
+      <img src="./assets/tech/ml.png" width="28" title="Machine Learning">&nbsp;<img src="./assets/tech/opencv.png" width="28" title="OpenCV">
       <br><br>
     </td>
-    <td width="33%" align="center" valign="top">
+    <td width="33.33%" align="center" valign="top">
       <br>
       <b><img src="./assets/icons/db.svg" width="18" align="center"> Databases</b><br><br>
-      <img src="./assets/tech/mongodb.png" width="28" title="MongoDB">&nbsp;
-      <img src="./assets/tech/mysql.png" width="28" title="MySQL">&nbsp;
-      <img src="./assets/tech/postgresql.png" width="28" title="PostgreSQL">
+      <img src="./assets/tech/mongodb.png" width="28" title="MongoDB">&nbsp;<img src="./assets/tech/mysql.png" width="28" title="MySQL">&nbsp;<img src="./assets/tech/postgresql.png" width="28" title="PostgreSQL">
       <br><br>
     </td>
-    <td width="33%" align="center" valign="top">
+    <td width="33.33%" align="center" valign="top">
       <br>
       <b><img src="./assets/icons/devops.svg" width="18" align="center"> DevOps / Cloud</b><br><br>
-      <img src="./assets/tech/docker.png" width="28" title="Docker">&nbsp;
-      <img src="./assets/tech/kubernetes.png" width="28" title="Kubernetes / K3s">&nbsp;
-      <img src="./assets/tech/gitlab.png" width="28" title="GitLab CI/CD">
+      <img src="./assets/tech/docker.png" width="28" title="Docker">&nbsp;<img src="./assets/tech/kubernetes.png" width="28" title="Kubernetes / K3s">&nbsp;<img src="./assets/tech/gitlab.png" width="28" title="GitLab CI/CD">
       <br><br>
     </td>
   </tr>
@@ -110,14 +96,11 @@
     <td colspan="3" align="center" valign="top">
       <br>
       <b><img src="./assets/icons/tools.svg" width="18" align="center"> Tools</b><br><br>
-      <img src="./assets/tech/git.png" width="28" title="Git">&nbsp;
-      <img src="./assets/tech/github.png" width="28" title="GitHub">&nbsp;
-      <img src="./assets/tech/postman.png" width="28" title="Postman">
+      <img src="./assets/tech/git.png" width="28" title="Git">&nbsp;<img src="./assets/tech/github.png" width="28" title="GitHub">&nbsp;<img src="./assets/tech/postman.png" width="28" title="Postman">
       <br><br>
     </td>
   </tr>
 </table>
-</div>
 
 <br>
 
