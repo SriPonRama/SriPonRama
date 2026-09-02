@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Sri Pon Rama S</h1>
   <p><b>AI & Data Science Student</b></p>
-  <h3><b><span style="color: #A2AB73;">BUILDING SYSTEMS. SOLVING PROBLEMS. LEARNING BY DOING.</span></b></h3>
+  <h2><b><span style="color: #325E6A; font-family: 'Sreda', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; letter-spacing: 1.5px;">BUILDING SYSTEMS. SOLVING PROBLEMS. LEARNING BY DOING.</span></b></h2>
   <br>
   <p>
     <a href="https://linkedin.com/in/sri-pon-rama-s-bb6199343/"><img src="./assets/icons/linkedin.svg" alt="LinkedIn"></a> &nbsp;&nbsp;&nbsp;
