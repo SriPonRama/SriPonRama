@@ -1,14 +1,35 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" width="40" height="40">
   <style>
-    @media (prefers-color-scheme: dark) { .accent { stroke: #2f81f7; } .bg { fill: rgba(47, 129, 247, 0.1); } }
-    @media (prefers-color-scheme: light) { .accent { stroke: #0969da; } .bg { fill: rgba(9, 105, 218, 0.1); } }
-    @keyframes focus { 0%, 100% { transform: scale(1); } 50% { transform: scale(0.9); } }
-    .bracket { transform-origin: center; animation: focus 2s infinite ease-in-out; }
+    .bg { fill: rgba(59, 130, 246, 0.1); }
+    .accent { stroke: #3b82f6; }
+    .scan-line { stroke: #60a5fa; }
+    
+    @keyframes scan {
+      0% { transform: translateY(8px); opacity: 0; }
+      10% { opacity: 1; }
+      90% { opacity: 1; }
+      100% { transform: translateY(32px); opacity: 0; }
+    }
+    .scanner { animation: scan 2.5s infinite linear; }
+    
+    @media (prefers-reduced-motion: reduce) {
+      .scanner { animation: none; display: none; }
+    }
   </style>
   <rect x="0" y="0" width="40" height="40" rx="8" class="bg"/>
-  <circle cx="20" cy="17" r="4" class="accent" stroke-width="1.5" fill="none"/>
-  <path d="M14,27 C14,24 16,22 20,22 C24,22 26,24 26,27" class="accent" stroke-width="1.5" fill="none" stroke-linecap="round"/>
-  <g class="bracket">
-    <path d="M12,12 L9,12 L9,15 M28,12 L31,12 L31,15 M12,28 L9,28 L9,25 M28,28 L31,28 L31,25" class="accent" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Detection frame -->
+  <path d="M12,12 L9,12 L9,15 M28,12 L31,12 L31,15 M12,28 L9,28 L9,25 M28,28 L31,28 L31,25" class="accent" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Simple face outline -->
+  <path d="M14,21 C14,26 16,28 20,28 C24,28 26,26 26,21 V16 C26,12 24,10 20,10 C16,10 14,12 14,16 Z" class="accent" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <!-- Scanner line -->
+  <g class="scanner">
+    <line x1="8" y1="0" x2="32" y2="0" class="scan-line" stroke-width="1" stroke-linecap="round"/>
+    <rect x="8" y="-4" width="24" height="4" fill="url(#scan-grad)"/>
   </g>
+  <defs>
+    <linearGradient id="scan-grad" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0%" stop-color="#60a5fa" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#60a5fa" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
 </svg>
