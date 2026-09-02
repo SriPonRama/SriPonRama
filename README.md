@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Sri Pon Rama S</h1>
-  <p><b>AI & Software Engineering Student</b></p>
-  <p><b>BUILDING SYSTEMS. SOLVING PROBLEMS. LEARNING BY DOING.</b></p>
+  <p><b>AI & Data Science Student</b></p>
+  <h3><b style="color: #A2AB73;">BUILDING SYSTEMS. SOLVING PROBLEMS. LEARNING BY DOING.</b></h3>
   <br>
   <p>
     <a href="https://linkedin.com/in/sri-pon-rama-s-bb6199343/"><img src="./assets/icons/linkedin.svg" alt="LinkedIn"></a> &nbsp;&nbsp;&nbsp;
