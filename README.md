@@ -1,7 +1,5 @@
 <div align="center">
-  <h1>Sri Pon Rama S</h1>
-  <p><b>AI & Data Science Student</b></p>
-  <img src="./assets/tagline.svg" alt="BUILDING SYSTEMS. SOLVING PROBLEMS. LEARNING BY DOING." width="700">
+  <img src="./assets/hero-background.svg" width="100%" alt="Sri Pon Rama S - AI & Data Science Student">
   <br>
   <p>
     <a href="https://linkedin.com/in/sri-pon-rama-s-bb6199343/"><img src="./assets/icons/linkedin.svg" alt="LinkedIn"></a> &nbsp;&nbsp;&nbsp;
