@@ -54,35 +54,52 @@
 <table>
   <tr>
     <td width="33%" valign="top">
-      <b><img src="./assets/icons/lang.svg" width="16" align="center"> Languages</b><br>
-      Python · Java · C++<br>C · JavaScript · TypeScript
+      <b><img src="./assets/icons/lang.svg" width="16" align="center"> Languages</b><br><br>
+      <img src="./assets/tech/python.png" width="20" align="center">&nbsp;Python<br>
+      <img src="./assets/tech/java.png" width="20" align="center">&nbsp;Java<br>
+      <img src="./assets/tech/cpp.png" width="20" align="center">&nbsp;C++<br>
+      <img src="./assets/tech/c.png" width="20" align="center">&nbsp;C<br>
+      <img src="./assets/tech/javascript.png" width="20" align="center">&nbsp;JavaScript<br>
+      <img src="./assets/tech/typescript.png" width="20" align="center">&nbsp;TypeScript
     </td>
     <td width="33%" valign="top">
-      <b><img src="./assets/icons/frontend.svg" width="16" align="center"> Frontend</b><br>
-      React · HTML<br>CSS · Tailwind CSS
+      <b><img src="./assets/icons/frontend.svg" width="16" align="center"> Frontend</b><br><br>
+      <img src="./assets/tech/react.png" width="20" align="center">&nbsp;React<br>
+      <img src="./assets/tech/html.png" width="20" align="center">&nbsp;HTML<br>
+      <img src="./assets/tech/css.png" width="20" align="center">&nbsp;CSS<br>
+      <img src="./assets/tech/tailwind.png" width="20" align="center">&nbsp;Tailwind CSS
     </td>
     <td width="33%" valign="top">
-      <b><img src="./assets/icons/backend.svg" width="16" align="center"> Backend</b><br>
-      Node.js · Express<br>Flask · REST APIs
+      <b><img src="./assets/icons/backend.svg" width="16" align="center"> Backend</b><br><br>
+      <img src="./assets/tech/nodejs.png" width="20" align="center">&nbsp;Node.js<br>
+      <img src="./assets/tech/express.png" width="20" align="center">&nbsp;Express<br>
+      <img src="./assets/tech/flask.png" width="20" align="center">&nbsp;Flask<br>
+      REST APIs
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <b><img src="./assets/icons/ml.svg" width="16" align="center"> AI / ML</b><br>
-      Machine Learning · OpenCV
+      <b><img src="./assets/icons/ml.svg" width="16" align="center"> AI / ML</b><br><br>
+      Machine Learning<br>
+      <img src="./assets/tech/opencv.png" width="20" align="center">&nbsp;OpenCV
     </td>
     <td width="33%" valign="top">
-      <b><img src="./assets/icons/db.svg" width="16" align="center"> Databases</b><br>
-      MongoDB · MySQL · PostgreSQL
+      <b><img src="./assets/icons/db.svg" width="16" align="center"> Databases</b><br><br>
+      <img src="./assets/tech/mongodb.png" width="20" align="center">&nbsp;MongoDB<br>
+      <img src="./assets/tech/mysql.png" width="20" align="center">&nbsp;MySQL<br>
+      <img src="./assets/tech/postgresql.png" width="20" align="center">&nbsp;PostgreSQL
     </td>
     <td width="33%" valign="top">
-      <b><img src="./assets/icons/devops.svg" width="16" align="center"> DevOps / Cloud</b><br>
-      Docker · Kubernetes / K3s<br>GitLab CI/CD · Argo CD
+      <b><img src="./assets/icons/devops.svg" width="16" align="center"> DevOps / Cloud</b><br><br>
+      <img src="./assets/tech/docker.png" width="20" align="center">&nbsp;Docker<br>
+      <img src="./assets/tech/kubernetes.png" width="20" align="center">&nbsp;Kubernetes / K3s<br>
+      <img src="./assets/tech/gitlab.png" width="20" align="center">&nbsp;GitLab CI/CD<br>
+      Argo CD
     </td>
   </tr>
 </table>
 
-<p><b><img src="./assets/icons/tools.svg" width="16" align="center"> Tools:</b> Git · GitHub · Postman</p>
+<p><b><img src="./assets/icons/tools.svg" width="16" align="center"> Tools:</b> &nbsp;&nbsp; <img src="./assets/tech/git.png" width="20" align="center">&nbsp;Git &nbsp;&nbsp; <img src="./assets/tech/github.png" width="20" align="center">&nbsp;GitHub &nbsp;&nbsp; <img src="./assets/tech/postman.png" width="20" align="center">&nbsp;Postman</p>
 
 <br>
 
