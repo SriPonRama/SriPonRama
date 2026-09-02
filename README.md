@@ -60,8 +60,7 @@
       <img src="./assets/tech/python.png" width="28" title="Python">&nbsp;
       <img src="./assets/tech/java.png" width="28" title="Java">&nbsp;
       <img src="./assets/tech/cpp.png" width="28" title="C++">&nbsp;
-      <img src="./assets/tech/c.png" width="28" title="C">&nbsp;
-      <img src="./assets/tech/javascript.png" width="28" title="JavaScript">
+      <img src="./assets/tech/c.png" width="28" title="C">
       <br><br>
     </td>
     <td width="33%" align="center" valign="top">
