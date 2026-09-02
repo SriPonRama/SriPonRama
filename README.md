@@ -51,68 +51,80 @@
 ## Technical Arsenal
 ---
 
-<table>
+<table width="100%">
   <tr>
     <td width="33%" valign="top">
       <div align="center">
-        <b><img src="./assets/icons/lang.svg" width="16" align="center"> Languages</b><br><br>
-        <img src="./assets/tech/python.png" width="32" title="Python">&nbsp;&nbsp;&nbsp;
-        <img src="./assets/tech/java.png" width="32" title="Java">&nbsp;&nbsp;&nbsp;
-        <img src="./assets/tech/cpp.png" width="32" title="C++"><br><br>
-        <img src="./assets/tech/c.png" width="32" title="C">&nbsp;&nbsp;&nbsp;
-        <img src="./assets/tech/javascript.png" width="32" title="JavaScript">
+        <br>
+        <b><img src="./assets/icons/lang.svg" width="18" align="center"> Languages</b><br><br>
+        <img src="./assets/tech/python.png" width="40" title="Python">&nbsp;&nbsp;&nbsp;
+        <img src="./assets/tech/java.png" width="40" title="Java">&nbsp;&nbsp;&nbsp;
+        <img src="./assets/tech/cpp.png" width="40" title="C++"><br><br>
+        <img src="./assets/tech/c.png" width="40" title="C">&nbsp;&nbsp;&nbsp;
+        <img src="./assets/tech/javascript.png" width="40" title="JavaScript">
+        <br><br>
       </div>
     </td>
     <td width="33%" valign="top">
       <div align="center">
-        <b><img src="./assets/icons/frontend.svg" width="16" align="center"> Frontend</b><br><br>
-        <img src="./assets/tech/react.png" width="32" title="React">&nbsp;&nbsp;&nbsp;
-        <img src="./assets/tech/html.png" width="32" title="HTML">&nbsp;&nbsp;&nbsp;
-        <img src="./assets/tech/css.png" width="32" title="CSS">
+        <br>
+        <b><img src="./assets/icons/frontend.svg" width="18" align="center"> Frontend</b><br><br>
+        <img src="./assets/tech/react.png" width="40" title="React">&nbsp;&nbsp;&nbsp;
+        <img src="./assets/tech/html.png" width="40" title="HTML">&nbsp;&nbsp;&nbsp;
+        <img src="./assets/tech/css.png" width="40" title="CSS">
+        <br><br>
       </div>
     </td>
     <td width="33%" valign="top">
       <div align="center">
-        <b><img src="./assets/icons/backend.svg" width="16" align="center"> Backend</b><br><br>
-        <img src="./assets/tech/nodejs.png" width="32" title="Node.js">&nbsp;&nbsp;&nbsp;
-        <img src="./assets/tech/express.png" width="32" title="Express"><br><br>
-        <img src="./assets/tech/flask.png" width="32" title="Flask">&nbsp;&nbsp;&nbsp;
-        <img src="./assets/tech/api.png" width="32" title="REST APIs">
+        <br>
+        <b><img src="./assets/icons/backend.svg" width="18" align="center"> Backend</b><br><br>
+        <img src="./assets/tech/nodejs.png" width="40" title="Node.js">&nbsp;&nbsp;&nbsp;
+        <img src="./assets/tech/express.png" width="40" title="Express"><br><br>
+        <img src="./assets/tech/flask.png" width="40" title="Flask">&nbsp;&nbsp;&nbsp;
+        <img src="./assets/tech/api.png" width="40" title="REST APIs">
+        <br><br>
       </div>
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top">
       <div align="center">
-        <b><img src="./assets/icons/ml.svg" width="16" align="center"> AI / ML</b><br><br>
-        <img src="./assets/tech/ml.png" width="32" title="Machine Learning">&nbsp;&nbsp;&nbsp;
-        <img src="./assets/tech/opencv.png" width="32" title="OpenCV">
+        <br>
+        <b><img src="./assets/icons/ml.svg" width="18" align="center"> AI / ML</b><br><br>
+        <img src="./assets/tech/ml.png" width="40" title="Machine Learning">&nbsp;&nbsp;&nbsp;
+        <img src="./assets/tech/opencv.png" width="40" title="OpenCV">
+        <br><br>
       </div>
     </td>
     <td width="33%" valign="top">
       <div align="center">
-        <b><img src="./assets/icons/db.svg" width="16" align="center"> Databases</b><br><br>
-        <img src="./assets/tech/mongodb.png" width="32" title="MongoDB">&nbsp;&nbsp;&nbsp;
-        <img src="./assets/tech/mysql.png" width="32" title="MySQL"><br><br>
-        <img src="./assets/tech/postgresql.png" width="32" title="PostgreSQL">
+        <br>
+        <b><img src="./assets/icons/db.svg" width="18" align="center"> Databases</b><br><br>
+        <img src="./assets/tech/mongodb.png" width="40" title="MongoDB">&nbsp;&nbsp;&nbsp;
+        <img src="./assets/tech/mysql.png" width="40" title="MySQL"><br><br>
+        <img src="./assets/tech/postgresql.png" width="40" title="PostgreSQL">
+        <br><br>
       </div>
     </td>
     <td width="33%" valign="top">
       <div align="center">
-        <b><img src="./assets/icons/devops.svg" width="16" align="center"> DevOps / Cloud</b><br><br>
-        <img src="./assets/tech/docker.png" width="32" title="Docker">&nbsp;&nbsp;&nbsp;
-        <img src="./assets/tech/kubernetes.png" width="32" title="Kubernetes / K3s"><br><br>
-        <img src="./assets/tech/gitlab.png" width="32" title="GitLab CI/CD">
+        <br>
+        <b><img src="./assets/icons/devops.svg" width="18" align="center"> DevOps / Cloud</b><br><br>
+        <img src="./assets/tech/docker.png" width="40" title="Docker">&nbsp;&nbsp;&nbsp;
+        <img src="./assets/tech/kubernetes.png" width="40" title="Kubernetes / K3s"><br><br>
+        <img src="./assets/tech/gitlab.png" width="40" title="GitLab CI/CD">
+        <br><br>
       </div>
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <p><b><img src="./assets/icons/tools.svg" width="16" align="center"> Tools:</b> &nbsp;&nbsp;
-  <img src="./assets/tech/git.png" width="24" title="Git"> &nbsp;&nbsp;&nbsp;
-  <img src="./assets/tech/github.png" width="24" title="GitHub"> &nbsp;&nbsp;&nbsp;
-  <img src="./assets/tech/postman.png" width="24" title="Postman"></p>
+  <p><b><img src="./assets/icons/tools.svg" width="18" align="center"> Tools:</b> &nbsp;&nbsp;
+  <img src="./assets/tech/git.png" width="32" title="Git"> &nbsp;&nbsp;&nbsp;
+  <img src="./assets/tech/github.png" width="32" title="GitHub"> &nbsp;&nbsp;&nbsp;
+  <img src="./assets/tech/postman.png" width="32" title="Postman"></p>
 </div>
 
 <br>
