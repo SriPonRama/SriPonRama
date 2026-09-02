@@ -118,14 +118,19 @@
       </div>
     </td>
   </tr>
+  <tr>
+    <td colspan="3" valign="top">
+      <div align="center">
+        <br>
+        <b><img src="./assets/icons/tools.svg" width="18" align="center"> Tools</b><br><br>
+        <img src="./assets/tech/git.png" width="32" title="Git">&nbsp;&nbsp;&nbsp;
+        <img src="./assets/tech/github.png" width="32" title="GitHub">&nbsp;&nbsp;&nbsp;
+        <img src="./assets/tech/postman.png" width="32" title="Postman">
+        <br><br>
+      </div>
+    </td>
+  </tr>
 </table>
-
-<div align="center">
-  <p><b><img src="./assets/icons/tools.svg" width="18" align="center"> Tools:</b> &nbsp;&nbsp;
-  <img src="./assets/tech/git.png" width="32" title="Git"> &nbsp;&nbsp;&nbsp;
-  <img src="./assets/tech/github.png" width="32" title="GitHub"> &nbsp;&nbsp;&nbsp;
-  <img src="./assets/tech/postman.png" width="32" title="Postman"></p>
-</div>
 
 <br>
 
