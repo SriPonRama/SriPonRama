@@ -5,8 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/SriPonRama"><img src="https://img.shields.io/badge/GITHUB-EXPLORE_MY_WORK-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=555555" alt="GitHub"></a> <a href="https://www.linkedin.com/in/sri-pon-rama-s-bb6199343/"><img src="https://img.shields.io/badge/LINKEDIN-LET%27S_CONNECT-0A66C2?style=for-the-badge&labelColor=555555" alt="LinkedIn"></a> <a href="mailto:sriponrama.s2024aids@sece.ac.in"><img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=555555" alt="Email"></a><br>
-  <a href="https://leetcode.com/u/SriPonRama/"><img src="https://img.shields.io/badge/LEETCODE-VIEW_PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=555555" alt="LeetCode"></a> <a href="https://portfolio-mu-ivory-3lpw66tm6h.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-181717?style=for-the-badge&logo=vercel&logoColor=white&labelColor=555555" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/sri-pon-rama-s-bb6199343/"><img src="https://img.shields.io/badge/LINKEDIN-LET%27S_CONNECT-0A66C2?style=for-the-badge&labelColor=555555" alt="LinkedIn"></a>
+  <a href="https://github.com/SriPonRama"><img src="https://img.shields.io/badge/GITHUB-EXPLORE_MY_WORK-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=555555" alt="GitHub"></a>
+  <a href="mailto:sriponrama.s2024aids@sece.ac.in"><img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=555555" alt="Email"></a>
+  <a href="https://leetcode.com/u/SriPonRama/"><img src="https://img.shields.io/badge/LEETCODE-VIEW_PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=555555" alt="LeetCode"></a>
+  <a href="https://portfolio-mu-ivory-3lpw66tm6h.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-181717?style=for-the-badge&logo=vercel&logoColor=white&labelColor=555555" alt="Portfolio"></a>
 </p>
 
 <div align="center"><img src="assets/headings/about-me.svg" alt="About Me" height="36"></div>
@@ -50,47 +53,49 @@
 
 <div align="center"><img src="assets/headings/tech-stack.svg" alt="Tech Stack" height="36"></div>
 
-<table width="100%">
-  <tr>
-    <td width="170" valign="top"><strong>Languages</strong></td>
-    <td><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,py,cpp,c,js,html,css&theme=light"><img src="https://skillicons.dev/icons?i=java,py,cpp,c,js,html,css&theme=dark" alt="Java, Python, C++, C, JavaScript, HTML, CSS"></picture></td>
-  </tr>
-  <tr>
-    <td width="170" valign="top"><strong>Frontend</strong></td>
-    <td><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,vite,tailwind&theme=light"><img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" alt="React, Vite, Tailwind CSS"></picture></td>
-  </tr>
-  <tr>
-    <td width="170" valign="top"><strong>Backend</strong></td>
-    <td><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,flask&theme=light"><img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark" alt="Node.js, Express, Flask"></picture></td>
-  </tr>
-  <tr>
-    <td width="170" valign="top"><strong>AI and CV</strong></td>
-    <td><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=opencv,jupyter&theme=light"><img src="https://skillicons.dev/icons?i=opencv,jupyter&theme=dark" alt="OpenCV, Jupyter"></picture></td>
-  </tr>
-  <tr>
-    <td width="170" valign="top"><strong>Databases</strong></td>
-    <td><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=light"><img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" alt="MySQL, MongoDB, PostgreSQL"></picture></td>
-  </tr>
-  <tr>
-    <td width="170" valign="top"><strong>DevOps and Cloud</strong></td>
-    <td><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,kubernetes,aws&theme=light"><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws&theme=dark" alt="Docker, Kubernetes, AWS"></picture></td>
-  </tr>
-  <tr>
-    <td width="170" valign="top"><strong>Tools</strong></td>
-    <td><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,postman&theme=light"><img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark" alt="Git, GitHub, Postman"></picture></td>
-  </tr>
-  <tr>
-    <td width="170" valign="top"><strong>Concepts</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Machine%20Learning-30363D?style=flat-square" alt="Machine Learning" />
-      <img src="https://img.shields.io/badge/REST%20APIs-30363D?style=flat-square" alt="REST APIs" />
-      <img src="https://img.shields.io/badge/DSA-30363D?style=flat-square" alt="DSA" />
-      <img src="https://img.shields.io/badge/OOP-30363D?style=flat-square" alt="OOP" />
-      <img src="https://img.shields.io/badge/DBMS-30363D?style=flat-square" alt="DBMS" />
-      <img src="https://img.shields.io/badge/SDLC-30363D?style=flat-square" alt="SDLC" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table align="center">
+    <tr>
+      <td width="170" align="left"><strong>Languages</strong></td>
+      <td width="550" align="left"><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,py,cpp,c,js,html,css&theme=light"><img src="https://skillicons.dev/icons?i=java,py,cpp,c,js,html,css&theme=dark" alt="Java, Python, C++, C, JavaScript, HTML, CSS"></picture></td>
+    </tr>
+    <tr>
+      <td width="170" align="left"><strong>Frontend</strong></td>
+      <td width="550" align="left"><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,vite,tailwind&theme=light"><img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" alt="React, Vite, Tailwind CSS"></picture></td>
+    </tr>
+    <tr>
+      <td width="170" align="left"><strong>Backend</strong></td>
+      <td width="550" align="left"><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,flask&theme=light"><img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark" alt="Node.js, Express, Flask"></picture></td>
+    </tr>
+    <tr>
+      <td width="170" align="left"><strong>AI and CV</strong></td>
+      <td width="550" align="left"><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=opencv,jupyter&theme=light"><img src="https://skillicons.dev/icons?i=opencv,jupyter&theme=dark" alt="OpenCV, Jupyter"></picture></td>
+    </tr>
+    <tr>
+      <td width="170" align="left"><strong>Databases</strong></td>
+      <td width="550" align="left"><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=light"><img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" alt="MySQL, MongoDB, PostgreSQL"></picture></td>
+    </tr>
+    <tr>
+      <td width="170" align="left"><strong>DevOps and Cloud</strong></td>
+      <td width="550" align="left"><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,kubernetes,aws&theme=light"><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws&theme=dark" alt="Docker, Kubernetes, AWS"></picture></td>
+    </tr>
+    <tr>
+      <td width="170" align="left"><strong>Tools</strong></td>
+      <td width="550" align="left"><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,postman&theme=light"><img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark" alt="Git, GitHub, Postman"></picture></td>
+    </tr>
+    <tr>
+      <td width="170" align="left"><strong>Concepts</strong></td>
+      <td width="550" align="left">
+        <img src="https://img.shields.io/badge/Machine%20Learning-30363D?style=flat-square" alt="Machine Learning" />
+        <img src="https://img.shields.io/badge/REST%20APIs-30363D?style=flat-square" alt="REST APIs" />
+        <img src="https://img.shields.io/badge/DSA-30363D?style=flat-square" alt="DSA" />
+        <img src="https://img.shields.io/badge/OOP-30363D?style=flat-square" alt="OOP" />
+        <img src="https://img.shields.io/badge/DBMS-30363D?style=flat-square" alt="DBMS" />
+        <img src="https://img.shields.io/badge/SDLC-30363D?style=flat-square" alt="SDLC" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div align="center"><img src="assets/headings/featured-projects.svg" alt="Featured Projects" height="36"></div>
 
@@ -190,14 +195,6 @@
   </tr>
 </table>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SriPonRama/SriPonRama/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SriPonRama/SriPonRama/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/SriPonRama/SriPonRama/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
-  </picture>
-</p>
-
 <div align="center"><img src="assets/headings/certifications-and-courses.svg" alt="Certifications and Courses" height="36"></div>
 
 <details>
@@ -227,6 +224,9 @@
 <p align="center"><sub>Thanks for visiting. Open to collaborating on projects.</sub></p>
 
 <p align="center">
-  <a href="https://github.com/SriPonRama"><img src="https://img.shields.io/badge/GITHUB-EXPLORE_MY_WORK-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=555555" alt="GitHub"></a> <a href="https://www.linkedin.com/in/sri-pon-rama-s-bb6199343/"><img src="https://img.shields.io/badge/LINKEDIN-LET%27S_CONNECT-0A66C2?style=for-the-badge&labelColor=555555" alt="LinkedIn"></a> <a href="mailto:sriponrama.s2024aids@sece.ac.in"><img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=555555" alt="Email"></a><br>
-  <a href="https://leetcode.com/u/SriPonRama/"><img src="https://img.shields.io/badge/LEETCODE-VIEW_PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=555555" alt="LeetCode"></a> <a href="https://portfolio-mu-ivory-3lpw66tm6h.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-181717?style=for-the-badge&logo=vercel&logoColor=white&labelColor=555555" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/sri-pon-rama-s-bb6199343/"><img src="https://img.shields.io/badge/LINKEDIN-LET%27S_CONNECT-0A66C2?style=for-the-badge&labelColor=555555" alt="LinkedIn"></a>
+  <a href="https://github.com/SriPonRama"><img src="https://img.shields.io/badge/GITHUB-EXPLORE_MY_WORK-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=555555" alt="GitHub"></a>
+  <a href="mailto:sriponrama.s2024aids@sece.ac.in"><img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=555555" alt="Email"></a>
+  <a href="https://leetcode.com/u/SriPonRama/"><img src="https://img.shields.io/badge/LEETCODE-VIEW_PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=555555" alt="LeetCode"></a>
+  <a href="https://portfolio-mu-ivory-3lpw66tm6h.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-181717?style=for-the-badge&logo=vercel&logoColor=white&labelColor=555555" alt="Portfolio"></a>
 </p>
