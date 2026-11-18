@@ -8,7 +8,6 @@
   <a href="https://www.linkedin.com/in/sri-pon-rama-s-bb6199343/"><img src="https://img.shields.io/badge/LINKEDIN-LET%27S_CONNECT-0A66C2?style=for-the-badge&labelColor=555555" alt="LinkedIn"></a>
   <a href="https://github.com/SriPonRama"><img src="https://img.shields.io/badge/GITHUB-EXPLORE_MY_WORK-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=555555" alt="GitHub"></a>
   <a href="mailto:sriponrama.s2024aids@sece.ac.in"><img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=555555" alt="Email"></a>
-  <a href="https://leetcode.com/u/SriPonRama/"><img src="https://img.shields.io/badge/LEETCODE-VIEW_PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=555555" alt="LeetCode"></a>
   <a href="https://portfolio-mu-ivory-3lpw66tm6h.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-181717?style=for-the-badge&logo=vercel&logoColor=white&labelColor=555555" alt="Portfolio"></a>
 </p>
 
@@ -227,6 +226,5 @@
   <a href="https://www.linkedin.com/in/sri-pon-rama-s-bb6199343/"><img src="https://img.shields.io/badge/LINKEDIN-LET%27S_CONNECT-0A66C2?style=for-the-badge&labelColor=555555" alt="LinkedIn"></a>
   <a href="https://github.com/SriPonRama"><img src="https://img.shields.io/badge/GITHUB-EXPLORE_MY_WORK-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=555555" alt="GitHub"></a>
   <a href="mailto:sriponrama.s2024aids@sece.ac.in"><img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=555555" alt="Email"></a>
-  <a href="https://leetcode.com/u/SriPonRama/"><img src="https://img.shields.io/badge/LEETCODE-VIEW_PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=555555" alt="LeetCode"></a>
   <a href="https://portfolio-mu-ivory-3lpw66tm6h.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-181717?style=for-the-badge&logo=vercel&logoColor=white&labelColor=555555" alt="Portfolio"></a>
 </p>
