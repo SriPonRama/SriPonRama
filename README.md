@@ -5,20 +5,15 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/SriPonRama" title="GitHub"><img src="https://cdn.simpleicons.org/github/8B949E" width="30" height="30" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sri-pon-rama-s-bb6199343/" title="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" height="30" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:sriponrama.s2024aids@sece.ac.in" title="Email"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" height="30" alt="Email" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/SriPonRama/" title="LeetCode"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="30" height="30" alt="LeetCode" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.skillrack.com/faces/resume.xhtml?id=514554&key=b730fe723d90e524d819855fa24df90107674b9d" title="SkillRack"><img src="https://www.google.com/s2/favicons?domain=skillrack.com&sz=64" width="30" height="30" alt="SkillRack" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://portfolio-mu-ivory-3lpw66tm6h.vercel.app" title="Portfolio"><img src="https://www.google.com/s2/favicons?domain=portfolio-mu-ivory-3lpw66tm6h.vercel.app&sz=64" width="30" height="30" alt="Portfolio" /></a>
-  <!-- TODO: public resume PDF link -->
+  <a href="https://github.com/SriPonRama"><img src="https://img.shields.io/badge/GITHUB-EXPLORE_MY_WORK-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=555555" alt="GitHub"></a> <a href="https://www.linkedin.com/in/sri-pon-rama-s-bb6199343/"><img src="https://img.shields.io/badge/LINKEDIN-LET%27S_CONNECT-0A66C2?style=for-the-badge&labelColor=555555" alt="LinkedIn"></a> <a href="mailto:sriponrama.s2024aids@sece.ac.in"><img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=555555" alt="Email"></a><br>
+  <a href="https://leetcode.com/u/SriPonRama/"><img src="https://img.shields.io/badge/LEETCODE-VIEW_PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=555555" alt="LeetCode"></a> <a href="https://portfolio-mu-ivory-3lpw66tm6h.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-181717?style=for-the-badge&logo=vercel&logoColor=white&labelColor=555555" alt="Portfolio"></a>
 </p>
 
 <div align="center"><img src="assets/headings/about-me.svg" alt="About Me" height="36"></div>
 
 <p>I like turning rough ideas into software that people can actually use. I care less about clever code and more about code that the next person can read, run and change without needing me in the room.</p>
 
-<table>
+<table width="100%">
   <tr>
     <td width="33%" valign="top">
       <strong>How I work</strong>
@@ -55,37 +50,37 @@
 
 <div align="center"><img src="assets/headings/tech-stack.svg" alt="Tech Stack" height="36"></div>
 
-<table>
+<table width="100%">
   <tr>
-    <td width="150" valign="top"><strong>Languages</strong></td>
+    <td width="170" valign="top"><strong>Languages</strong></td>
     <td><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,py,cpp,c,js,html,css&theme=light"><img src="https://skillicons.dev/icons?i=java,py,cpp,c,js,html,css&theme=dark" alt="Java, Python, C++, C, JavaScript, HTML, CSS"></picture></td>
   </tr>
   <tr>
-    <td width="150" valign="top"><strong>Frontend</strong></td>
+    <td width="170" valign="top"><strong>Frontend</strong></td>
     <td><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,vite,tailwind&theme=light"><img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" alt="React, Vite, Tailwind CSS"></picture></td>
   </tr>
   <tr>
-    <td width="150" valign="top"><strong>Backend</strong></td>
+    <td width="170" valign="top"><strong>Backend</strong></td>
     <td><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,flask&theme=light"><img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark" alt="Node.js, Express, Flask"></picture></td>
   </tr>
   <tr>
-    <td width="150" valign="top"><strong>AI and CV</strong></td>
+    <td width="170" valign="top"><strong>AI and CV</strong></td>
     <td><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=opencv,jupyter&theme=light"><img src="https://skillicons.dev/icons?i=opencv,jupyter&theme=dark" alt="OpenCV, Jupyter"></picture></td>
   </tr>
   <tr>
-    <td width="150" valign="top"><strong>Databases</strong></td>
+    <td width="170" valign="top"><strong>Databases</strong></td>
     <td><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=light"><img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" alt="MySQL, MongoDB, PostgreSQL"></picture></td>
   </tr>
   <tr>
-    <td width="150" valign="top"><strong>DevOps and Cloud</strong></td>
+    <td width="170" valign="top"><strong>DevOps and Cloud</strong></td>
     <td><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,kubernetes,aws&theme=light"><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws&theme=dark" alt="Docker, Kubernetes, AWS"></picture></td>
   </tr>
   <tr>
-    <td width="150" valign="top"><strong>Tools</strong></td>
+    <td width="170" valign="top"><strong>Tools</strong></td>
     <td><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,postman&theme=light"><img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark" alt="Git, GitHub, Postman"></picture></td>
   </tr>
   <tr>
-    <td width="150" valign="top"><strong>Concepts</strong></td>
+    <td width="170" valign="top"><strong>Concepts</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Machine%20Learning-30363D?style=flat-square" alt="Machine Learning" />
       <img src="https://img.shields.io/badge/REST%20APIs-30363D?style=flat-square" alt="REST APIs" />
@@ -99,7 +94,7 @@
 
 <div align="center"><img src="assets/headings/featured-projects.svg" alt="Featured Projects" height="36"></div>
 
-<table>
+<table width="100%">
   <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/SriPonRama/Automated-Attendance-Tracking-System" title="Open the repository on GitHub"><img src="assets/projects/smart-attendance.svg" alt="Smart Attendance" height="28" /></a>
@@ -163,13 +158,13 @@
 
 <div align="center"><img src="assets/headings/coding-profiles.svg" alt="Coding Profiles" height="36"></div>
 
-<table>
+<table width="100%">
   <tr>
-    <td width="200"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="20" height="20" alt="LeetCode" /> <a href="https://leetcode.com/u/SriPonRama/"><strong>LeetCode</strong></a></td>
+    <td width="170"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="20" height="20" alt="LeetCode"> <a href="https://leetcode.com/u/SriPonRama/"><strong>LeetCode</strong></a></td>
     <td>285+ problems solved, contest rating 1708, global rank 114,685, top 13.31%</td>
   </tr>
   <tr>
-    <td width="200"><img src="https://www.google.com/s2/favicons?domain=skillrack.com&sz=64" width="20" height="20" alt="SkillRack" /> <a href="https://www.skillrack.com/faces/resume.xhtml?id=514554&key=b730fe723d90e524d819855fa24df90107674b9d"><strong>SkillRack</strong></a></td>
+    <td width="170"><img src="https://www.google.com/s2/favicons?domain=skillrack.com&sz=64" width="20" height="20" alt="SkillRack"> <a href="https://www.skillrack.com/faces/resume.xhtml?id=514554&key=b730fe723d90e524d819855fa24df90107674b9d"><strong>SkillRack</strong></a></td>
     <td>850+ challenges, 250+ bronze badges</td>
   </tr>
 </table>
@@ -232,11 +227,6 @@
 <p align="center"><sub>Thanks for visiting. Open to collaborating on projects.</sub></p>
 
 <p align="center">
-  <a href="https://github.com/SriPonRama" title="GitHub"><img src="https://cdn.simpleicons.org/github/8B949E" width="30" height="30" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sri-pon-rama-s-bb6199343/" title="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" height="30" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:sriponrama.s2024aids@sece.ac.in" title="Email"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" height="30" alt="Email" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/SriPonRama/" title="LeetCode"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="30" height="30" alt="LeetCode" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.skillrack.com/faces/resume.xhtml?id=514554&key=b730fe723d90e524d819855fa24df90107674b9d" title="SkillRack"><img src="https://www.google.com/s2/favicons?domain=skillrack.com&sz=64" width="30" height="30" alt="SkillRack" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://portfolio-mu-ivory-3lpw66tm6h.vercel.app" title="Portfolio"><img src="https://www.google.com/s2/favicons?domain=portfolio-mu-ivory-3lpw66tm6h.vercel.app&sz=64" width="30" height="30" alt="Portfolio" /></a>
-  <!-- TODO: public resume PDF link -->
+  <a href="https://github.com/SriPonRama"><img src="https://img.shields.io/badge/GITHUB-EXPLORE_MY_WORK-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=555555" alt="GitHub"></a> <a href="https://www.linkedin.com/in/sri-pon-rama-s-bb6199343/"><img src="https://img.shields.io/badge/LINKEDIN-LET%27S_CONNECT-0A66C2?style=for-the-badge&labelColor=555555" alt="LinkedIn"></a> <a href="mailto:sriponrama.s2024aids@sece.ac.in"><img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=555555" alt="Email"></a><br>
+  <a href="https://leetcode.com/u/SriPonRama/"><img src="https://img.shields.io/badge/LEETCODE-VIEW_PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=555555" alt="LeetCode"></a> <a href="https://portfolio-mu-ivory-3lpw66tm6h.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-181717?style=for-the-badge&logo=vercel&logoColor=white&labelColor=555555" alt="Portfolio"></a>
 </p>
